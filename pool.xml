@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Pool Care reminders</title>
+    <link>https://barkernotbob.github.io/static/pool/</link>
+    <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
+    <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
+    <lastBuildDate>Sat, 27 Jun 2026 19:40:06 GMT</lastBuildDate>
+
+  </channel>
+</rss>
