@@ -5,7 +5,27 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Sat, 27 Jun 2026 19:40:06 GMT</lastBuildDate>
-
+    <lastBuildDate>Tue, 30 Jun 2026 01:50:57 GMT</lastBuildDate>
+    <item>
+      <title>Pool: 3 readings need attention (test 2026-06-27)</title>
+      <description>Free chlorine (low): Chlorine low. Add your usual ½ cup granular chlorine (in a bucket of water, poured by the pump return). Re-test tomorrow.  •  pH (high): pH high. Add a measured dose of pH Down per label and re-test. High pH weakens chlorine.  •  Total alkalinity (high): Alkalinity high. Lower it slowly with muriatic acid and aerate; re-test over a few days.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-test-t_1782600901_n60h</guid>
+      <pubDate>Tue, 30 Jun 2026 01:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Robot vacuum</title>
+      <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-robot-2026-06-27</guid>
+      <pubDate>Tue, 30 Jun 2026 01:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Run the pump</title>
+      <description>Off-season: ~twice a week, 2–4 hrs. Peak summer: run daily.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-pump-2026-06-26</guid>
+      <pubDate>Tue, 30 Jun 2026 01:50:57 GMT</pubDate>
+    </item>
   </channel>
 </rss>
