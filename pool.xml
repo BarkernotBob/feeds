@@ -5,7 +5,28 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Fri, 03 Jul 2026 12:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 12:03:39 GMT</lastBuildDate>
+    <item>
+      <title>Pool: heavy rain 2026-07-04 (2.48 in)</title>
+      <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-rain-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 12:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Add chlorine (½ cup)</title>
+      <description>½ cup granular into a half-full 5-gal bucket of water; mix carefully (don't inhale); pour by the pump return.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-chlorine-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 12:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Test the water (strips)</title>
+      <description>Dip a test strip and log the results here.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-test-2026-07-04</guid>
+      <pubDate>Sat, 04 Jul 2026 12:03:39 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: 3 readings need attention (test 2026-06-27)</title>
       <description>Free chlorine (low): Chlorine low. Add your usual ½ cup granular chlorine (in a bucket of water, poured by the pump return). Re-test tomorrow.  •  pH (high): pH high. Add a measured dose of pH Down per label and re-test. High pH weakens chlorine.  •  Total alkalinity (high): Alkalinity high. Lower it slowly with muriatic acid and aerate; re-test over a few days.</description>
