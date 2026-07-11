@@ -5,7 +5,21 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Fri, 10 Jul 2026 13:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 11:49:18 GMT</lastBuildDate>
+    <item>
+      <title>Pool: Check pump flow / backwash</title>
+      <description>If the pump seems weak or pressure is up: backwash (pump OFF to move handle → ON, run to clear in the sight glass → OFF → Rinse → ON ~30s until clear).</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-backwash-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 11:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Add phosphate remover (1 oz)</title>
+      <description>1 oz phosphate remover. Check phosphates at Leslie's now and then.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-phosphate-2026-07-11</guid>
+      <pubDate>Sat, 11 Jul 2026 11:49:18 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: heavy rain 2026-07-04 (2.48 in)</title>
       <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
