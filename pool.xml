@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Sun, 26 Jul 2026 11:59:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 13:35:59 GMT</lastBuildDate>
+    <item>
+      <title>Pool: Check &amp; clean the basket</title>
+      <description>Clean the bottom/strainer basket whenever you see debris (~4–6×/yr).</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-basket-2026-07-27</guid>
+      <pubDate>Mon, 27 Jul 2026 13:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: Robot vacuum</title>
       <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
