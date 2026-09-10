@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Wed, 09 Sep 2026 14:59:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:44:11 GMT</lastBuildDate>
+    <item>
+      <title>Pool: 3 readings need attention (test 2026-09-09)</title>
+      <description>Total chlorine (high): Total chlorine high. Hold off on chlorine and let it drift down before the next dose.  •  Free chlorine (high): Chlorine high. Hold off adding chlorine (and pull the tabs) until it drifts back down.  •  pH (high): pH high. You have no acid on hand — dose with your 3&quot; tabs instead of cal-hypo for a while (tabs lower pH), skip the soda ash, and re-test. To fix it properly, pick up pH Down.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-test-t_1788984570_la59</guid>
+      <pubDate>Thu, 10 Sep 2026 14:44:11 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: Robot vacuum</title>
       <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
