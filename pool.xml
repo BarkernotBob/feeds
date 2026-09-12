@@ -5,7 +5,28 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Fri, 11 Sep 2026 14:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 13:49:39 GMT</lastBuildDate>
+    <item>
+      <title>Pool: 1 reading need attention (test 2026-09-11)</title>
+      <description>Total chlorine (high): Total chlorine reads higher than free chlorine — that gap is combined chlorine (chloramines: the &quot;pool smell&quot;, stinging eyes). Shock it: Add 1 cup cal-hypo granular — mixed into a half-full 5-gal bucket of water, then poured by the pump return. Run the pump and re-test in a few hours.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-test-t_1789165568_iw08</guid>
+      <pubDate>Sat, 12 Sep 2026 13:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Check pump flow / backwash</title>
+      <description>If the pump seems weak or pressure is up: backwash (pump OFF to move handle → ON, run to clear in the sight glass → OFF → Rinse → ON ~30s until clear).</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-backwash-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 13:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Add phosphate remover (1 oz)</title>
+      <description>1 oz PR-10,000 concentrate. Phosphates aren't on your strips — check them at Leslie's now and then.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-phosphate-2026-09-12</guid>
+      <pubDate>Sat, 12 Sep 2026 13:49:39 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: 3 readings need attention (test 2026-09-09)</title>
       <description>Total chlorine (high): Total chlorine high. Hold off on chlorine and let it drift down before the next dose.  •  Free chlorine (high): Chlorine high. Hold off adding chlorine (and pull the tabs) until it drifts back down.  •  pH (high): pH high. You have no acid on hand — dose with your 3&quot; tabs instead of cal-hypo for a while (tabs lower pH), skip the soda ash, and re-test. To fix it properly, pick up pH Down.</description>
