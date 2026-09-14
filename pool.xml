@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Sun, 13 Sep 2026 14:46:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 16:44:36 GMT</lastBuildDate>
+    <item>
+      <title>Pool: fall closing is coming up</title>
+      <description>Season closes around 10-05. Plan closing before the leaves drop: 6 oz phosphate remover, 2 doses chlorine, cover.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-season-close-2026-10-05</guid>
+      <pubDate>Mon, 14 Sep 2026 16:44:36 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: Robot vacuum</title>
       <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
