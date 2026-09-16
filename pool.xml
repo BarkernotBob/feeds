@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Tue, 15 Sep 2026 15:25:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 15:17:59 GMT</lastBuildDate>
+    <item>
+      <title>Pool: heavy rain 2026-09-16 (2.42 in)</title>
+      <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-rain-2026-09-16</guid>
+      <pubDate>Wed, 16 Sep 2026 15:17:59 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: fall closing is coming up</title>
       <description>Season closes around 10-05. Plan closing before the leaves drop: 6 oz phosphate remover, 2 doses chlorine, cover.</description>
