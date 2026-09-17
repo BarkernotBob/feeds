@@ -5,7 +5,21 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 15:17:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 15:24:33 GMT</lastBuildDate>
+    <item>
+      <title>Pool: Robot vacuum</title>
+      <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-robot-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 15:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Run the pump</title>
+      <description>Off-season: ~twice a week, 2–4 hrs. Peak summer: run daily.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-pump-2026-09-17</guid>
+      <pubDate>Thu, 17 Sep 2026 15:24:33 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: heavy rain 2026-09-16 (2.42 in)</title>
       <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
