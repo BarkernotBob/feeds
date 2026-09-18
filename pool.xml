@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Thu, 17 Sep 2026 15:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:45:05 GMT</lastBuildDate>
+    <item>
+      <title>Pool: Test the water (strips)</title>
+      <description>Dip a strip and log all seven pads: total hardness, total chlorine, total bromine, free chlorine, pH, total alkalinity, cyanuric acid.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-test-2026-09-18</guid>
+      <pubDate>Fri, 18 Sep 2026 14:45:05 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: Robot vacuum</title>
       <description>Filter first, then run the robot ~1.5 hrs. Daily when you're filtering daily.</description>
