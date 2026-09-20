@@ -5,7 +5,21 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Sat, 19 Sep 2026 14:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 14:26:15 GMT</lastBuildDate>
+    <item>
+      <title>Pool: heavy rain 2026-09-20 (3.14 in)</title>
+      <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-rain-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 14:26:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pool: Add chlorine (½ cup cal-hypo)</title>
+      <description>½ cup cal-hypo granular into a half-full 5-gal bucket of water; mix carefully (don't inhale); pour by the pump return. Liquid chlorine (sodium hypochlorite) is the swap when hardness is running high — about 1 quart in place of the ½ cup.</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-chlorine-2026-09-20</guid>
+      <pubDate>Sun, 20 Sep 2026 14:26:15 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: heavy rain 2026-09-17 (0.95 in)</title>
       <description>Notable rainfall can dilute chlorine and stabilizer (CYA) and wash in phosphates. Test the water and rebalance if needed.</description>
