@@ -5,7 +5,14 @@
     <link>https://barkernotbob.github.io/static/pool/</link>
     <atom:link xmlns:atom="http://www.w3.org/2005/Atom" href="https://barkernotbob.github.io/feeds/pool.xml" rel="self" type="application/rss+xml"/>
     <description>What's due for the pool — tasks, seasonal open/close, and test advice.</description>
-    <lastBuildDate>Sun, 27 Sep 2026 15:29:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:21:36 GMT</lastBuildDate>
+    <item>
+      <title>Pool: Check &amp; clean the basket</title>
+      <description>Clean the bottom/strainer basket whenever you see debris (~4–6×/yr).</description>
+      <link>https://barkernotbob.github.io/static/pool/</link>
+      <guid isPermaLink="false">pool-task-basket-2026-09-28</guid>
+      <pubDate>Mon, 28 Sep 2026 18:21:36 GMT</pubDate>
+    </item>
     <item>
       <title>Pool: Check pump flow / backwash</title>
       <description>If the pump seems weak or pressure is up: backwash (pump OFF to move handle → ON, run to clear in the sight glass → OFF → Rinse → ON ~30s until clear).</description>
